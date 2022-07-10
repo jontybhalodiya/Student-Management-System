@@ -3,7 +3,7 @@
 </div>
 
 ## About Student-Management-Systemr:
-This is a Student-Management-System made using and mysql.
+This is a Student-Management-System made using python and mysql.
 
 ### Steps to Run on Local Machine
 
