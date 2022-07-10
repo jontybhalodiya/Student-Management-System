@@ -3,7 +3,7 @@
 </div>
 
 ## About Student-Management-Systemr:
-This is a Youtube Video Downloader Application made using and mysql.
+This is a Student-Management-System made using and mysql.
 
 ### Steps to Run on Local Machine
 
