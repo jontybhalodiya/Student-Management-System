@@ -2,7 +2,7 @@
   <h1 align="center">Student-Management-System</h1>
 </div>
 
-## About Student-Management-Systemr:
+## About Student-Management-System:
 This is a Student-Management-System made using python and mysql.
 
 ### Steps to Run on Local Machine
